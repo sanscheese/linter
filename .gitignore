@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Intellij idea
+*.iml
+.idea
+
+# Yarn
+yarn-error.log
+
+# System files
+.DS_Store
+
