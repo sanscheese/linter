@@ -33,6 +33,6 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^24.8.0",
-    "stylelint": "^10.1.0",
+    "stylelint": "^10.1.0"
   }
 }
