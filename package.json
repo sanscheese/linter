@@ -1,6 +1,6 @@
 {
   "name": "bhws-eslint-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "My lint config",
   "contributors": [
     "Ben Sheedy <web@bensheedy.com>"
