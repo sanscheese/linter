@@ -5,6 +5,7 @@
   "contributors": [
     "Ben Sheedy <web@bensheedy.com>"
   ],
+  "license": "MIT",
   "homepage": "https://github.com/sanscheese/eslint-config",
   "repository": {
     "type": "git",
