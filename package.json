@@ -1,5 +1,5 @@
 {
-  "name": "bhws-eslint-config",
+  "name": "@bhws/eslint-config",
   "version": "0.0.6",
   "description": "My lint config",
   "contributors": [
