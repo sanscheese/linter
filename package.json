@@ -19,22 +19,23 @@
     "test": "npm run lint && jest",
     "release": "standard-version && git push --follow-tags && npm publish --access public"
   },
-  "files": [
-    "index.js",
-    "prettier.config.js",
-    "stylelint.js",
-    "stylelint.config.js"
-  ],
   "dependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
     "eslint": "^6.0.1",
     "stylelint": "^10.1.0",
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-recess-order": "^2.0.3",
-    "stylelint-config-standard": "^18.3.0"
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-prettier": "^1.1.1"
   },
   "devDependencies": {
     "jest": "^24.8.0",
     "standard-version": "^6.0.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "prettier.config.js",
+    "stylelint.js",
+    "stylelint.config.js"
+  ]
 }
