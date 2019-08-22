@@ -14,9 +14,9 @@ https://medium.com/@natterstefan/how-to-create-your-own-shared-eslint-prettier-a
 1. Add this to devDependencies
 
 ```bash
-$ npm i -D sanscheese/eslint-config
+$ npm i -D @bhws/eslint-config
 # or
-$ yarn add -D sanscheese/eslint-config
+$ yarn add -D @bhws/eslint-config
 ```
 
 2. Install `eslint` if not already present locally or globally
