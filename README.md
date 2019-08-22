@@ -34,7 +34,7 @@ $ yarn add -D eslint
 ```json
 {
   "extends": [
-    "sanscheese"
+    "bhws"
   ]
 }
 ```
@@ -52,7 +52,7 @@ A full example `.eslintrc` for a project with babel support:
     "sourceType": "module"
   },
   "extends": [
-    "sanscheese"
+    "bhws"
   ]
 }
 ```
